@@ -11,17 +11,17 @@ You can find most of my course work, both during graduate and undergraduate here
 {% include _toc.html %}
 
 ### Graduate
-* [Topics in Deep Learning (10-807)](http://www.cs.cmu.edu/~rsalakhu/10807_2016/)
-* [Visual Learning and Recognition (16-824)](http://graphics.cs.cmu.edu/courses/16-824/2016_spring/)
-* [Convex Optimization (10-725)](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-* [Intermediate Statistics (36-725)](http://www.stat.cmu.edu/~larry/=stat705/)
-* [Probabilistic Graphical Models (10-708)](http://www.cs.cmu.edu/~epxing/Class/10708/)
-* [Geometry-based methods in Vision (16-822)](http://vasc.ri.cmu.edu/vision_courses/V_Course_Detail.htm#GB)
-* [Computer Vision (16-720)](http://vasc.ri.cmu.edu/vision_courses/G_Course_Detail.htm#720)
-* [Introduction to Machine Learning (10-701)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/)
+* [Algorithms (CS 617)](https://catalog.uah.edu/search/?P=CS%20617)
+* [Machine Learning (CS 640)](https://catalog.uah.edu/search/?P=CS%20640)
+* [Data Mining (CS 641)](https://catalog.uah.edu/search/?P=CS%20641)
+* [Software Engineering (CS 650)](https://catalog.uah.edu/search/?P=CS%20650)
+* [Database Systems (CS 687)](https://catalog.uah.edu/search/?P=CS%20687)
+* [Operating Systems (CS 690)](https://catalog.uah.edu/search/?P=CS%20690)
+* [Big Data Analytics (CS 696)](https://catalog.uah.edu/search/?P=CS%20696)
+//* [Introduction to Machine Learning (10-701)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/)
 
 ### Undergraduate
-**Electrical Engineering**  
+**Electronics and Communication Engineering**  
 
 * [Computer Vision](http://www.ee.iitb.ac.in/web/academics/courses#EE702)
 * [Image Processing](http://www.ee.iitb.ac.in/web/academics/courses#EE610)
@@ -34,7 +34,7 @@ You can find most of my course work, both during graduate and undergraduate here
 * [Power Electronics](http://www.ee.iitb.ac.in/web/academics/courses#EE222)
 * [Network Theory](http://www.ee.iitb.ac.in/web/academics/courses#EE225)
 
-**Computer Science** 
+**Computer Science (Electives)** 
 
 * [Probabilistic Graphical Models and Structured Learning](http://www.cse.iitb.ac.in/page134?course=CS+726)
 * [Introduction to Machine Learning](http://www.cse.iitb.ac.in/page134?course=CS+419)
